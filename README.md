@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+<img src="https://github-readme-stats.vercel.app/api?username=shauryasrivatava&&show_icons=true&title_color=88c0d0&icon_color=a3be8c&text_color=88c0d0&bg_color=2e3440">
 <!--
 **shauryasrivatava/shauryasrivatava** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
